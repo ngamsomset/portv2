@@ -315,7 +315,7 @@ body {
   }
 }
 
-@media (min-width: 760px) {
+@media (min-width: 900px) {
   .projects-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
