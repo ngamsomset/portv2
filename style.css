@@ -20,6 +20,10 @@ a {
   color: #eee;
 }
 
+.p-1 {
+  padding: 1rem;
+}
+
 /* Navbar */
 
 .menu-wrap {
