@@ -24,6 +24,19 @@ a {
   padding: 1rem;
 }
 
+.m-1 {
+  margin: 1rem;
+}
+
+.mt-1 {
+  margin-top: 1rem;
+}
+
+.text-secondary {
+  font-weight: 300;
+  font-style: italic;
+}
+
 /* Navbar */
 
 .menu-wrap {
