@@ -245,6 +245,11 @@ body {
   transition: ease-in 0.5s;
 }
 
+.button button:disabled {
+  background-color: (var(--primary-color));
+  cursor: not-allowed;
+}
+
 .social {
   display: flex;
   flex-direction: row;
